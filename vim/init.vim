@@ -6,7 +6,7 @@ set softtabstop=4
 set tabstop=4
 set expandtab
 
-map W :w<enter>
+map S :w<enter>
 map Q :q<enter>
 
 
