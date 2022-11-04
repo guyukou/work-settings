@@ -6,6 +6,9 @@ set softtabstop=4
 set tabstop=4
 set expandtab
 
+set ignorecase
+set smartcase
+
 map S :w<enter>
 map Q :q<enter>
 
